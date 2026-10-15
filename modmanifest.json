@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "CrynanoLib",
+  "Assemblies": [
+    "CrynanoLib.dll"
+  ],
+  "Dependencies": []
+}
