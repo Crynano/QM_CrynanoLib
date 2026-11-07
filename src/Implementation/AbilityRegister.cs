@@ -1,6 +1,5 @@
 ﻿using CrynanoLib.Contracts.Perks;
 using JetBrains.Annotations;
-using MGSC;
 using System.Collections.Generic;
 
 namespace CrynanoLib.Implementation
